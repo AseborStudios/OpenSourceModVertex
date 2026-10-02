@@ -1,4 +1,4 @@
-# TikTok Vertex
+# ModVertex
 
 🇺🇸 Open source of the tt mod Vertex.
 
