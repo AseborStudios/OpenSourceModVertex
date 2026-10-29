@@ -23,7 +23,7 @@ APK распространяется только через [Telegram-кана�
 
 ## 🛠️ Сборка из исходников
 
-1. Форкни [tiktok-patches-for-morphe](https://github.com/AseborStudios/tiktok-patches-for-morphe)
+1. Форкни [OpenSourceVerteXMod](https://github.com/AseborStudios/tiktok-patches-for-morph)
 2. Собери bundle через `./gradlew :patches:buildAndroid`
 3. Загрузи bundle в [Morphe Desktop](https://github.com/MorpheApp/morphe-desktop)
 4. Примени патчи к TikTok 46.2.3
